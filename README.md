@@ -1,76 +1,76 @@
 # devin-dev
 
-A development repository for Devin AI projects and experiments.
+Devin AI プロジェクトと実験のための開発リポジトリです。
 
-## Overview
+## 概要
 
-This repository serves as a development workspace for various Devin AI-related projects, prototypes, and experimental code.
+このリポジトリは、様々な Devin AI 関連プロジェクト、プロトタイプ、実験的なコードのための開発ワークスペースとして機能します。
 
-## Getting Started
+## はじめに
 
-### Prerequisites
+### 前提条件
 
 - Git
-- Node.js (if working with JavaScript/TypeScript projects)
-- Python 3.8+ (if working with Python projects)
+- Node.js（JavaScript/TypeScript プロジェクトで作業する場合）
+- Python 3.8+（Python プロジェクトで作業する場合）
 
-### Installation
+### インストール
 
-1. Clone the repository:
+1. リポジトリをクローンします：
 ```bash
 git clone https://github.com/cyubachi/devin-dev.git
 cd devin-dev
 ```
 
-2. Install dependencies (if applicable):
+2. 依存関係をインストールします（該当する場合）：
 ```bash
-# For Node.js projects
+# Node.js プロジェクトの場合
 npm install
 
-# For Python projects
+# Python プロジェクトの場合
 pip install -r requirements.txt
 ```
 
-## Project Structure
+## プロジェクト構造
 
 ```
 devin-dev/
 ├── README.md
-├── src/           # Source code
-├── tests/         # Test files
-├── docs/          # Documentation
-└── examples/      # Example implementations
+├── src/           # ソースコード
+├── tests/         # テストファイル
+├── docs/          # ドキュメント
+└── examples/      # 実装例
 ```
 
-## Usage
+## 使用方法
 
-This repository contains various development projects and experiments. Each project may have its own specific setup and usage instructions in its respective directory.
+このリポジトリには様々な開発プロジェクトと実験が含まれています。各プロジェクトには、それぞれのディレクトリに固有のセットアップと使用方法の説明があります。
 
-## Contributing
+## コントリビューション
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+1. リポジトリをフォークします
+2. フィーチャーブランチを作成します（`git checkout -b feature/amazing-feature`）
+3. 変更をコミットします（`git commit -m 'Add some amazing feature'`）
+4. ブランチにプッシュします（`git push origin feature/amazing-feature`）
+5. プルリクエストを開きます
 
-## Development Guidelines
+## 開発ガイドライン
 
-- Follow consistent coding standards
-- Write clear commit messages
-- Include tests for new features
-- Update documentation as needed
+- 一貫したコーディング標準に従う
+- 明確なコミットメッセージを書く
+- 新機能にはテストを含める
+- 必要に応じてドキュメントを更新する
 
-## License
+## ライセンス
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+このプロジェクトは MIT ライセンスの下でライセンスされています - 詳細は [LICENSE](LICENSE) ファイルを参照してください。
 
-## Contact
+## 連絡先
 
-- Repository Owner: [@cyubachi](https://github.com/cyubachi)
-- Email: cyubachi@gmail.com
+- リポジトリオーナー: [@cyubachi](https://github.com/cyubachi)
+- メール: cyubachi@gmail.com
 
-## Acknowledgments
+## 謝辞
 
-- Built with Devin AI assistance
-- Thanks to all contributors and collaborators
+- Devin AI の支援により構築
+- すべてのコントリビューターとコラボレーターに感謝
